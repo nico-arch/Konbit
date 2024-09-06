@@ -1,0 +1,11 @@
+enkli "iostream"
+
+klas Animal
+{
+    metod son() {
+        retounen "Rawr";
+    }
+    metod seDeplacer() {
+        retounen "Je cours";
+    }
+}

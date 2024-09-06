@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1725650816 source:c:\users\adag\documents\konbit\konbit\main.cpp
+	"parser.h"
+	<iostream>
+
+1725647226 c:\users\adag\documents\konbit\konbit\parser.h
+	<string>
+	<unordered_map>
+	<vector>
+
+1725652218 source:c:\users\adag\documents\konbit\konbit\parser.cpp
+	"parser.h"
+	<iostream>
+	<fstream>
+	<string>
+
